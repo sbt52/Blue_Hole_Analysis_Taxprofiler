@@ -1,0 +1,2 @@
+sample,run_accession,lane,instrument_platform,fastq_1,fastq_2
+BlueHole,run1,1,ILLUMINA,BH-51_S2_L001_R1_001.fastq.gz,BH-51_S2_L001_R2_001.fastq.gz
