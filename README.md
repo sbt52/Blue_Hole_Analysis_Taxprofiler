@@ -2,7 +2,7 @@
 To reproduce this analysis, the following command was executed. This specifically utilizes Kraken2 for classification and Krona for visualization, while managing hardware constraints through a local config.
 
 \`\`\`
-bash
+\bash
 nextflow run nf-core/taxprofiler \
     -profile docker \
     -c local.config \
